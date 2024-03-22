@@ -1,3 +1,6 @@
+
+![fondo1](https://github.com/Mauro90P/Mauro90P/assets/107511034/229acb7e-2c03-4762-ac74-25d57b96ebd5)
+
 ## Hola soy Mauricio Pardo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀
 ## 🚀 About Me
 
