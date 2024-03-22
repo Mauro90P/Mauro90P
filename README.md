@@ -22,4 +22,9 @@
 
 
 ## 🛠 Skills
+[![Python](![Uploading image.png…]()
+)](https://iconos8.es/icon/13441/python)
+
+
+
 Javascript, HTML, CSS, Boostrap, Selenium, Cucumber, Python, Flask, Scrum Master, JIRA,MY-SQL,SAP BO.
