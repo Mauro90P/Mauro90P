@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hola soy Mauricio Pardo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀
+## 🚀 About Me
 
-<!--
-**Mauro90P/Mauro90P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Soy developer Full stack Python.
 
-Here are some ideas to get you started:
+- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
+- Disfruto trabajando en equipo siempre con aplicando mejora la continua cada dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Y
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Other Common Github Profile Sections
+👩‍💻 Actualmente me encuentro en un proyecto de investigar parte de un codigo de cobol para migrarlo a python.
+
+🧠 Estoy cursando un master en programación, para ir adquiriendo nuevos desafios y conocimientos en las nuevas tendencias del mercado.
+
+👯‍♀️ Me encanta colaborar fuera de mis fucniones que tengo en el cargo, para ir en ayuda al equipo.
+
+📫 Me pueden contactar en mi correo; mauriciopardo.figueroa@gmail.com
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, Boostrap, Selenium, Cucumber, Python, Flask, Scrum Master, JIRA,MY-SQL,SAP BO.
