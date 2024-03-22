@@ -7,13 +7,13 @@
 - Soy developer Full stack Python.
 
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
-- Disfruto trabajando en equipo siempre con aplicando mejora la continua cada dia.
+- Disfruto trabajando en equipo siempre con aplicar mejora continua cada dia en todos los proyectos.
 
 
 ## Other Common Github Profile Sections
 👩‍💻 Actualmente me encuentro en un proyecto de investigar parte de un codigo de cobol para migrarlo a python.
 
-🧠 Estoy cursando un master en programación, para ir adquiriendo nuevos desafios y conocimientos en las nuevas tendencias del mercado.
+🧠 Estoy cursando un master en programación, para ir adquiriendo mas y nuevos desafios de conocimientos en las nuevas tendencias del mercado.
 
 👯‍♀️ Me encanta colaborar fuera de mis fucniones que tengo en el cargo, para ir en ayuda al equipo.
 
