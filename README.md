@@ -6,8 +6,8 @@
 
 - Soy developer Full stack Python.
 
-- Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
-- Disfruto trabajando en equipo siempre con aplicar mejora continua cada dia en todos los proyectos.
+- Soy una persona autodidacta y altamente creativa que busca seguir creciendo en el ambiente del desarrollo.
+- Disfruto trabajando en equipo, aplicando cada dia la mejora continua en los proyectos.
 
 
 ## Other Common Github Profile Sections
